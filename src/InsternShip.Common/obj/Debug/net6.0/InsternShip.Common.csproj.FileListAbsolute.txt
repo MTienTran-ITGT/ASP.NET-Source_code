@@ -1,0 +1,12 @@
+C:\Users\Admin\Downloads\internship-master - Copy\src\InsternShip.Common\bin\Debug\net6.0\InsternShip.Common.deps.json
+C:\Users\Admin\Downloads\internship-master - Copy\src\InsternShip.Common\bin\Debug\net6.0\InsternShip.Common.dll
+C:\Users\Admin\Downloads\internship-master - Copy\src\InsternShip.Common\bin\Debug\net6.0\InsternShip.Common.pdb
+C:\Users\Admin\Downloads\internship-master - Copy\src\InsternShip.Common\obj\Debug\net6.0\InsternShip.Common.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\internship-master - Copy\src\InsternShip.Common\obj\Debug\net6.0\InsternShip.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\internship-master - Copy\src\InsternShip.Common\obj\Debug\net6.0\InsternShip.Common.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\internship-master - Copy\src\InsternShip.Common\obj\Debug\net6.0\InsternShip.Common.AssemblyInfo.cs
+C:\Users\Admin\Downloads\internship-master - Copy\src\InsternShip.Common\obj\Debug\net6.0\InsternShip.Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\internship-master - Copy\src\InsternShip.Common\obj\Debug\net6.0\InsternShip.Common.dll
+C:\Users\Admin\Downloads\internship-master - Copy\src\InsternShip.Common\obj\Debug\net6.0\refint\InsternShip.Common.dll
+C:\Users\Admin\Downloads\internship-master - Copy\src\InsternShip.Common\obj\Debug\net6.0\InsternShip.Common.pdb
+C:\Users\Admin\Downloads\internship-master - Copy\src\InsternShip.Common\obj\Debug\net6.0\ref\InsternShip.Common.dll
